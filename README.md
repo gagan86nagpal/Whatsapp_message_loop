@@ -9,3 +9,5 @@ Following javascript scripts can be used to automate and schedule whatsapp messa
 4. (optional)Before adding you can change the default text in it.
 5. Now add stop_message script to same console in order to stop it
 6. if stop script didn't work, you can close the window.
+
+#youtube_Link: https://www.youtube.com/watch?v=uakCHrqDAkY
